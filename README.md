@@ -1,2 +1,2 @@
 # Lab1
-Lab1 curso Git
+Lab1 curso Git PUE
